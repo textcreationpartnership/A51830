@@ -1,0 +1,493 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two sermons both preached at Northampton, one at the assizes March 1693, the other at a visitation October the 10th, 1694 by John Mansell ...</title>
+            <author>Mansell, John, 1644 or 5-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51830</idno>
+            <idno type="STC">Wing M513</idno>
+            <idno type="STC">ESTC R32049</idno>
+            <idno type="EEBO-CITATION">12307461</idno>
+            <idno type="OCLC">ocm 12307461</idno>
+            <idno type="VID">59307</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51830)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59307)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1015:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two sermons both preached at Northampton, one at the assizes March 1693, the other at a visitation October the 10th, 1694 by John Mansell ...</title>
+                  <author>Mansell, John, 1644 or 5-1730.</author>
+               </titleStmt>
+               <extent>[8], 23, 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Richardson for Brabazon Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCV [1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A sermon preached at Northampton at a visitation ..." has special t.p. and separate paging.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59307:1"/>
+            <pb facs="tcp:59307:1" rendition="simple:additions"/>
+            <p>TWO SERMONS Both PREACHED At <hi>NORTHAMPTON,</hi> ONE AT THE ASSIZES <hi>March</hi> 1693. THE OTHER AT A VISITATION <hi>October</hi> the
+10th. 1694.</p>
+            <p>By <hi>JOHN MANSELL,</hi> L.L.B. Rector of <hi>Furthoe</hi> in the County of <hi>Northampton.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>
+                           <hi>Imprimatur,</hi>
+                        </p>
+                        <closer>
+                           <signed>Humf. Hody R. in Ch. Pac. D.D. Johanni Archiep. Cant. a Sac. Dom.</signed> 
+                           <dateline>
+                              <date>Nov. 18.
+1694.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Richardſon,</hi> for
+<hi>Brabazon Aylmer,</hi> at the <hi>Three Pigeons</hi> over againſt the
+<hi>Royal Exchange</hi> in <hi>Cornhil,</hi> MDCXCV.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:59307:2" rendition="simple:additions"/>
+                  <pb facs="tcp:59307:2"/>
+                  <p>A SERMON Preached at the ASSIZES HELD AT <hi>NORTHAMPTON,</hi> IN <hi>March</hi> 1693.</p>
+                  <p>By <hi>JOHN MANSELL,</hi> Rector of <hi>Furthoe</hi> in the County of <hi>Northampton.</hi>
+                  </p>
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>J. Richardſon,</hi> for
+<hi>Brabazon Aylmer,</hi> at the <hi>Three Pigeons</hi> over againſt the
+<hi>Royal Exchange</hi> in <hi>Cornhil,</hi> MDCXCV.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:59307:3"/>
+                  <pb facs="tcp:59307:3"/>
+                  <head>TO <hi>Francis Arundell,</hi> 
+                     <abbr>Eſq</abbr> LATE High Sheriff OF THE COUNTY OF <hi>NORTHAMPTON.</hi>
+                  </head>
+                  <opener>
+                     <salute>Honoured Sir,</salute>
+                  </opener>
+                  <p>VVHEN you was pleaſed to Impoſe this Piece of Ser<g ref="char:EOLhyphen"/>vice upon me, and thereby drew me out of that Privacy which<pb facs="tcp:59307:4"/>I confeſs my ſelf fond of, becauſe very ſenſible how well it becomes me: I did not in the leaſt think of being made more Publick. But ſince the repeated Importunity of ſome to whom I owe Obedience, being joyned to your own Deſires and Encouragement, have at laſt laid a kind of neceſſity upon me; I gladly, Sir, Embrace this Opportuni<g ref="char:EOLhyphen"/>ty of Expreſſing the Sence of a whole Neighbourhood, who find themſelves extreamly happy in your Preſence, and Authority amongſt them. Whilſt, lea<g ref="char:EOLhyphen"/>ving the Extravagant Perſuit, of I know not what Imaginary Gallantries, to thoſe Vain Souls that are not ca<g ref="char:EOLhyphen"/>pable of more Rational Satisfactions: You, Sir, Live Honourably in your Countrey, where by an approved Loy<g ref="char:EOLhyphen"/>alty to Their Majeſties, upon whoſe
+<pb facs="tcp:59307:4"/>Proſperity that of the Whole Nation doth Depend; By an <g ref="char:V">Ʋ</g>nſhaken Zeal for our Holy Religion and Establiſhed Church, in whoſe Happineſs that of the State is Inſeparably Included; By a Well-Re<g ref="char:EOLhyphen"/>gulated Family; an Exemplary Oeco<g ref="char:EOLhyphen"/>nomy; an <g ref="char:V">Ʋ</g>pright Justice, ſweetned with a Peaceful Pacifying Temper, You Worthily Endear Your ſelf to all that are Wiſe and Good: And do indeed Appear that Magistrate I have here endeavoured to deſcribe.</p>
+                  <p>May ſo Great a Merit never miſs of as Great a Reward, But may the Abundant Mercies of God continually Deſcend upon You, Your Excellent Good Lady, and moſt Hopeful Chil<g ref="char:EOLhyphen"/>dren; that ſo my Countrey may never want an <hi>Arundel</hi> to do it Service and<pb facs="tcp:59307:5"/>Credit; nor any of Your Houſe ever want that Reſpect and Honour ſo long Injoyed by the
+<hi>Cranes</hi> Your Anceſtours. This is part of the Dayly Prayers of</p>
+                  <closer>
+                     <salute>Sir,</salute>
+                     <signed>Your moſt Obliged Humble Servant, <hi>JOHN MANSELL.</hi>
+                     </signed> 
+                     <dateline>Old Stratford,
+<date>Octob. 15. 1694.</date>
+                     </dateline>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="sermon">
+                  <pb n="1" facs="tcp:59307:5"/>
+                  <head>A SERMON Preached at the ASSIZES AT
+<hi>NORTHAMPTON.</hi>
+                  </head>
+                  <epigraph>
+                     <q>
+                        <bibl>PSALM lxxxii. <hi>ver.</hi> 1.</bibl>
+                        <p>God ſtandeth in the Congregation of the Mighty, he judgeth among the Gods.</p>
+                     </q>
+                  </epigraph>
+                  <p>The Old Tranſlation renders it thus:</p>
+                  <q>
+                     <p>God ſtandeth in the Congregation of Princes, he is a Judge among Gods.</p>
+                  </q>
+                  <p>VVHatſoever would have been the Condition of Mankind, had they lived up to the God-like perfection wherein they were at firſt created: Yet this is certain, that in their lapſed State, they could not have maintained themſelves in any tole<g ref="char:EOLhyphen"/>rable<pb n="2" facs="tcp:59307:6"/>Peace and Order; without the benefit of Hu<g ref="char:EOLhyphen"/>mane Laws, and the inſtitution of Governments. But though God ſo far indulged the neceſſities of our fallen Nature, as to allow us Law-givers from among our ſelves; Yet he kept the Supreme Legi<g ref="char:EOLhyphen"/>ſlative Powerſtill in his own hands; He himſelf al<g ref="char:EOLhyphen"/>ways
+<hi>ſtanding in the Congregation of thoſe Mighty</hi> who preſcribe Laws to all beneath them: And though the Civil Magiſtrate be indeed his
+<hi>Mini<g ref="char:EOLhyphen"/>ſter,</hi> inveſted with his Authority, and <hi>beareth not his Sword in vain,</hi> yet the moſt Sovereign Power of Life and Death is ſtill in God himſelf; who is therefore ſaid to <hi>judge</hi> over thoſe very
+<hi>Gods</hi> that pronounce ſentence upon the Lives and Fortunes of Inferiour Men. Thus <hi>God ſtandeth in the Con<g ref="char:EOLhyphen"/>gregation of the Mighty, and judgeth among the Gods.</hi>
+                  </p>
+                  <p>In this Pſalm the inſpired <hi>Aſaph</hi> inſtructs Princes both in their Dignity and their Duty: Beginning his Diſcourſe with that Solemn Preamble in the <hi>Text,</hi> wherein he adorns the Civil Magiſtrates with the moſt glorious of their Titles, and yet preſſes them with the moſt awful conſiderations; thereby ſhewing how reconcileable the Faithful diſcharge of a Preachers Duty may be to the Rules of Civility and good Manners: Thus he Comple<g ref="char:EOLhyphen"/>ments them with the Names of
+<hi>Princes</hi> and of <hi>Gods,</hi> and yet warns them of an Almighty Supe<g ref="char:EOLhyphen"/>riour, who ſtands above and overlooks them all, and judges all they do: For, ſays he, <hi>God ſtandeth in the Congregation of the Princes, he is a Judge among Gods.</hi>
+                  </p>
+                  <p>
+                     <pb n="3" facs="tcp:59307:6"/>For the more uſeful handling of which words, I ſhall, 1. Inquire who are the <hi>Mighty,</hi> the <hi>Princes,</hi> and the <hi>Gods</hi> here ſpoken of: 2. What is meant by <hi>Gods ſtanding amongſt</hi> the one, and <hi>judging among</hi> the other. 1. Then by the
+<hi>Mighty</hi> and the <hi>Gods</hi> are doubtleſs underſtood Kings, Princes and Governours, and all that are put in Authority un<g ref="char:EOLhyphen"/>der them; that is, all Civil Magiſtrates in their due Subordinations: And though perhaps to ſup<g ref="char:EOLhyphen"/>poſe, that by the <hi>Mighty</hi> are meant only inferiour Magiſtrates, and by the <hi>Gods</hi> Sovereign Princes themſelves, might ſound like no ill gloſs upon the words; Yet I find that Expoſitors generally look no farther in both Expreſſions, than to thoſe Judges of
+<hi>Iſrael</hi> that uſed to Aſſemble in the Great Council of the
+<hi>Sanhedrim.</hi> And to give unto them the Ti<g ref="char:EOLhyphen"/>tles of <hi>Mighty</hi> and of
+<hi>Princes</hi> is not at all uncom<g ref="char:EOLhyphen"/>mon in Holy Scripture:
+<note place="margin">Verſe. 6.</note> So for the more lofty Epi<g ref="char:EOLhyphen"/>thite of <hi>Gods</hi> we find it twice repeated in this <hi>Pſalm:</hi> And again, <hi>Exod.</hi> 22.28. <hi>Thou ſhalt not revile the Gods, nor curſe the Ruler of thy people:</hi> So alſo <hi>Exod.</hi> 21.6. where it's obſervable, that what we tranſlate <hi>Judges</hi> is in the Original
+<hi>Elohim, Gods,</hi> and ſo in ſeveral other Texts: But when we conſider that what is rendered <hi>Mighty</hi> in the for<g ref="char:EOLhyphen"/>mer part of the Verſe, is in the Hebrew the ſame <hi>Elohim,</hi> and in the
+<hi>Septuagint</hi> the ſame <gap reason="foreign" resp="#OXF" extent="1 word">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> with what we tranſlate <hi>Gods</hi> in the latter part, I think we need make no nice diſtinction between the two termes. And though the Learned
+<hi>Grotius,</hi> in the former clauſe, ſticks to the verſion of
+<hi>Synagoga Dei,</hi> which is no more than the <hi>Congregation of God,</hi>
+                     <pb n="4" facs="tcp:59307:7"/>or <hi>Gods Congregation;</hi> yet ſince in the latter clauſe he allows the Title of <hi>Gods</hi> to that <hi>Congregation,</hi> the ſence is not at all altered by his Criticiſme. But 2. For <hi>Gods ſtanding in this Congregation and judging among thoſe Gods;</hi> Whether we take <hi>ſtan<g ref="char:EOLhyphen"/>ding</hi> only for being preſent, as in 1 <hi>Kings</hi>
+17.1. or for being the Chief in Government, <hi>Ezra</hi> 2.63. 2
+<hi>Kings</hi> 8.20. or for the Perſon that pronounceth Sentence, which the Antients oftentimes did in an erect poſture, which ſeems to be aimed at,
+<hi>Iſa.</hi> 3.13. In all theſe Senſes God is preſent, God pre<g ref="char:EOLhyphen"/>ſides, God himſelf pronounceth Sentence among them; ſo that
+<hi>ſtanding</hi> and <hi>judging</hi> ſeem to be as nearly allied in Sence, as <hi>Mighty</hi> and <hi>Gods.</hi>
+                  </p>
+                  <p>From the words thus opened, give me leave to preſent you with theſe Three Conſiderations. 1. The Civil Magiſtrates Dignity. 2. Their Sub<g ref="char:EOLhyphen"/>jection, 3. Their Duty conſequent to both.</p>
+                  <p>1. Their Dignity, They are called <hi>Princes</hi> and
+<hi>Gods,</hi> and indeed when we look upon <hi>Princes</hi> as ſtanding in the foremoſt Rank of Men, and con<g ref="char:EOLhyphen"/>ſider God as infinitely exalted above all the Ranks of Men and Angels; we muſt needs confeſs their Names are properly made uſe of to denote what is eminent either in Office, or in Honour: and that there is very much in Civil Magiſtrates that raiſes them above the Level of other Men, and makes them approach nearer to Deity, will appear, if we conſider: 1. Their Eminent Authority, which in its Original, is Gods. 2. The Eminent Vertues<pb n="5" facs="tcp:59307:7"/>which ought to qualife them for their High Office. 3. Thoſe eminent benefits which they confer upon the World. 4. The eminent Honours that are due to the ſaithful diſcharge of their weighty Imployments. In all which there is a certain
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ſomewhat that carries a ſtamp of Divinity upon it.</p>
+                  <p n="1">1. Their Power and Authority which in its Original is Gods. <hi>I have ſaid ye are Gods,</hi> ſaies our Authour, <hi>ver.</hi> 6. that is with reſpect to their Power; for it is a remark of the forecited
+<hi>Grotius,</hi> That the Title of <hi>Gods</hi> is never put upon Men, but when it ſignifies the power of Life and Death; as may be ſeen in his Notes upon <hi>Exod.</hi> 4.16. All Civil Fower therefore is Originally derived from God. <hi>The Powers that be are ordained of God, Rom.</hi> 13.1. and therefore the Old World looked upon their Princes but as ſo many viſible Deities, all Sons of the Supreme <hi>Jove:</hi>
+                     <note place="margin">
+                        <hi>All Children of the moſt High.</hi> Verſe 6.</note> And thence it was that we ſee the Ancient Crowns compoſed of thoſe golden Spires that beſt repreſented the rayes of Glory, wherewith they circled the heads of their Divinities: Thus God was generally owned to be the great ſountain of all Government and Au<g ref="char:EOLhyphen"/>thority</p>
+                  <p>But for the better underſtanding in what limited ſence I take all this. I ſhall here premiſe,</p>
+                  <p n="1">1. That it is only of Civil Right and Power that I am now ſpeaking; and therefore I do not<pb n="6" facs="tcp:59307:8"/>think my ſelf obliged to take notice of Paternal Au<g ref="char:EOLhyphen"/>thority, though doubtleſs the firſt in the World: Since that was a right purely natural, and ſo comes not up to the preſent caſe. Beſides I ſuppoſe the full Natural Authority of a Father over his Chil<g ref="char:EOLhyphen"/>dren, did in the beginning laſt no longer than the Son continued a Member of that Family, and ſo lived one of his Domeſtick Subjects; But when he married and began a Family of his own, then he became as much a Monarch in his own Houſe, as his Father was in <hi>his.</hi> But ſince this Natural Au<g ref="char:EOLhyphen"/>thority, as to its chief Regalities, hath long ſince ceaſed in all civiliſed Nations: And all the Govern<g ref="char:EOLhyphen"/>ments now in the World are wholly founded upon Civil and Legal Right: And I take it for granted, that what was meerly a Civil Right in its Original, can never either by long preſcription, or continued Succeſſion become a Natural Right: Since the Na<g ref="char:EOLhyphen"/>ture of things never alters, howſoever their circum<g ref="char:EOLhyphen"/>ſtances may. I wave therefore the firſt Govern<g ref="char:EOLhyphen"/>ment that was founded in Paternal, that is, in Natural Right: And,</p>
+                  <p n="2">2. I premiſe father, That ſomewhat elſe be<g ref="char:EOLhyphen"/>ſides the meer permiſſion of God (that only Uni<g ref="char:EOLhyphen"/>verſal Monarch, without whoſe leave none of the Creatures he had made could have any Power over themſelves, or others; and without whoſe com<g ref="char:EOLhyphen"/>municating that Power to them, they had no right to diſpoſe themſelves into any kinds of Civil Go<g ref="char:EOLhyphen"/>vernments) I ſay that beſides all this, ſomewhat elſe did contribute to the Eſtabliſhment of ſuch Hu<g ref="char:EOLhyphen"/>mane<pb n="7" facs="tcp:59307:8"/>mane Authorities as are now exerciſed in the World. And that I humbly ſuppoſe to be, the Natural Neceſſities of Fallen Men, together with the Rational Uſe of thoſe Faculties wherewith God had endued them: For God having planted ſuch Faculties in Men as enabled them to conſult their <hi>Common Good,</hi> and to provide for their own Peace and Intereſt: And leaving them to the free uſe of thoſe Faculties, they ſoon found, by an ear<g ref="char:EOLhyphen"/>ly experience, how neceſſary it was to unite into Civil Societies, which could not be done without the Enacting of Laws, and the Conſtitution of Go<g ref="char:EOLhyphen"/>vernours: So that Men were naturally obliged to en<g ref="char:EOLhyphen"/>ter thoſe Mutual Compacts and Politick Relations, wherein ſome were to be governed and protected, and others to be honoured and obeyed: Neither yet was all this without God's Soveraign Intervention, for though I do not find that in the beginning there was any particular Revelation commanding Men to Model themſelves, into ſuch Methods of Civil Government; But they were all at firſt meerly the Dictates of Natural Reaſon, grounded upon the Sence of Humane Neceſſities: Yet ſeeing it was God that planted this Principle of Reaſon in us, therefore all that duly ſprings from that Principle may juſtly be ſaid to proceed from God its Au<g ref="char:EOLhyphen"/>thour; and ſo to have a Divine Authority, though not immediately founded upon any poſitive Di<g ref="char:EOLhyphen"/>vine Command. Add to this, that what is founded in Natural Reaſon, is one Branch of the Law of Nature, as much the Law of God as any Revealed Law whatſoever. But farther, God ſet
+<pb n="8" facs="tcp:59307:9"/>his own Seal to this Inſtitution of Civil Govern<g ref="char:EOLhyphen"/>ment; and by ſeveral of his own ſubſequent, poſitive Laws, required Men to ſubmit unto thoſe Methods of Government, to whoſe Birth the Ne<g ref="char:EOLhyphen"/>ceſſities of Humane Nature, and the Dictates of Humane reaſon, ſeemed ſo much to contribute.</p>
+                  <p>Laſtly, God himſelf took the very ſame Me<g ref="char:EOLhyphen"/>thods, when he choſe the <hi>Jewiſh</hi> Nation to be his own immediate Subjects; whoſe Government though fundamentally a <hi>Theocracy,</hi> yet it under<g ref="char:EOLhyphen"/>went various kinds of outward Adminiſtrations; <hi>Ariſtocracy, Oligarchy, Monarchy,</hi> both Elective and Hereditary: And at laſt, after the mixt Govern<g ref="char:EOLhyphen"/>ment between the Great Captains and the Sove<g ref="char:EOLhyphen"/>reign <hi>Pontifs</hi> which ſucceeded the <hi>Babylonian</hi> Cap<g ref="char:EOLhyphen"/>tivity; it ſettled in a compound Title of Succeſs, Merit, and Election in the <hi>Asmonaean</hi> Family: I do not add that of Conqueſt; there being a wide dif<g ref="char:EOLhyphen"/>ference between Conquering a Nations Enemies, eſpecially by the Aſſiſtance of its own hands; and Conquering the Nation it ſelf. Thus the <hi>Macha<g ref="char:EOLhyphen"/>baean</hi> Line excluded that of <hi>David;</hi> and thoſe Hero's riſing up the great Deliverers of their Church, and Countrey, from the extreameſt Op<g ref="char:EOLhyphen"/>preſſion both in their Religious, and Civil Rights: Nothing leſs than a Crown was thought an Equal Reward for ſo Glorious a Merit. Neither was the Old
+<hi>Davidean</hi> Title ever put in as a Bar to the more deſerving preſent Poſſeſſours: But the ſame Providence watched over them, and doubtleſs by its Miniſters required the ſame Allegiance to them
+<pb n="9" facs="tcp:59307:9"/>as to the Princes of the former Race: The caſe is eaſily applyed.</p>
+                  <p>Thus the Origin of all Government is abſo<g ref="char:EOLhyphen"/>lutely from God, from his leave, and permiſſion; from thoſe Laws of Reaſon that he planted in Mens Natures, enabling them to take the beſt meaſures for their common Good, and Safety; from his own following poſitive Commands con<g ref="char:EOLhyphen"/>firming what that Reaſon had dictated, from his own Example, and from that viſible Providence whereby he ſupports Civil Right and Government in the World.</p>
+                  <p n="2">
+                     <label type="milestone">
+                        <seg type="milestoneunit">consideration </seg>2</label> 2. Thoſe Eminent Vertues, wherewith they ought to be qualified for the diſcharge of their High Office, do all ſhine at leaſt with ſome bor<g ref="char:EOLhyphen"/>rowed Rayes of the Divinity: And repreſent them as ſo many <hi>Gods</hi> to other Men.</p>
+                  <p>For whether we conſider that Natural Capaci<g ref="char:EOLhyphen"/>ty, Ingenuity, and Probity which ought to pre<g ref="char:EOLhyphen"/>pare the Soil for their Riper Vertues to grow in, (it being ſeldom ſeen that the beſt Education, and greateſt Erudition do ever ſufficiently Correct, and Cultivate thoſe Depravations of Nature, whereby ſome Perſons have infamouſly diſtinguiſhed them<g ref="char:EOLhyphen"/>ſelves, and after their Advancement to the Seat of Judicature have made their very Scarlet bluſh at the Extravagant and Outragious Deportment of thoſe that wore it): Or whether we conſider the profound Knowledge, and the vaſt Experience,<pb n="10" facs="tcp:59307:10"/>the Solid Judgment and the <hi>Wiſdom like an Angel of God,</hi> the Unwearied Induſtry and Uncorrupted Integrity, the Generous Courage, and the Invin<g ref="char:EOLhyphen"/>cible Patience, the Heroick Juſtice, and the Saint<g ref="char:EOLhyphen"/>like Mercy which are all required to the making up of one Accompliſhed Magiſtrate; we muſt needs confeſs that there is much of God in the Great Man. And if we examine wherein the <hi>Image of God in Man</hi> did at firſt conſiſt, we ſhall find that in a great part it appeared in the Mo<g ref="char:EOLhyphen"/>ral perfections of his Nature, in a near Reſem<g ref="char:EOLhyphen"/>blance of the Divine Wiſdom, Goodneſs, Truth, Purity, Juſtice, and Mercy, and the like Moral Attributes, which are the only imitable perfections in God; he therefore that is moſt qualified with thoſe Moral Excellencies, has certainly moſt of God in him, and the Divine Image is moſt beau<g ref="char:EOLhyphen"/>tifully revived in his Vertues. So that Magiſtrates in the Juſt, Wiſe, Upright Diſcharge of their Duties are Gods beſt Repreſentatives; the Divine Wiſddom ſhines through theirs, and the Divine Juſtice Illuſtriouſly appears in all they do. Thus by qualifying themſelves with more Eminent Ver<g ref="char:EOLhyphen"/>tues than other Men, they ſtand like ſo many <hi>Gods</hi> above them: A Bold <hi>Hyperbole</hi> I confeſs, was it not Licenſed by the Holy Spirit it ſelf: But,</p>
+                  <p n="3">
+                     <label type="milestone">
+                        <seg type="milestoneunit">consideration </seg>3</label> 3. The Eminent Benefits that Good Magiſtrates Communicate to the reſt of Mankind, and their great uſefulneſs in the World, renders them as ſo many
+<hi>Gods</hi> in it. Thus we know Idolatry aroſe, whilſt Men Deified their Publick Benefactors,<pb n="11" facs="tcp:59307:10"/>and thoſe who had done any ſignal good to the reſt of Mankind were rewarded with Temples, and with Altars; with Sacrifice and Adorations. And thus God himſelf recommends himſelf to the Love of his Creatures, by his Univerſal Goodneſs and Beneficence; All his other Attributes may indeed ingage our Veneration, and perhaps our Fear, but it is only perfect Goodneſs that irreſiſti<g ref="char:EOLhyphen"/>bly Charms our Affection: We may admire all that is Great, but we love only what does us good: The Nobler Nature may have a Right to our Wonder, but it is only the more Uſeful that has a Right to our Kindneſs: And therefore though the Civil Magiſtrates by their Mighty Power may ſtrike an Awe into other Men, though by their Excellent Accompliſhments they may command their reſpects, yet it is only their Mighty Uſefulneſs that recommends them to their Love; They are the Bleſſings which ſuch Communicate to the World that make them dear as Publick Benefa<g ref="char:EOLhyphen"/>ctors, and beloved as <hi>Gods</hi> in it.</p>
+                  <p>Thus whilſt they ſecure every Mans Proper<g ref="char:EOLhyphen"/>ty, and Protect every Mans Life; whilſt they are the Keepers of Gods Peace upon Earth, and the Diſpenſers of his Common Juſtice amongſt Men; whilſt they impartially determine all Diſputes be<g ref="char:EOLhyphen"/>tween Man and Man, whilſt they are
+<hi>Terrors unto evil doers,</hi> and the Encouragers of thoſe that do good; And in fine, whilſt they are the <hi>Miniſters of God for good</hi> to the World, <hi>Rom.</hi> 13.4. In all this they much reſemble the Divine Juſtice, that gives to every one its due, and the Divine Providence that
+<pb n="12" facs="tcp:59307:11"/>upholds Peace, and Order, Right, and Equity in the World: And may well therefore be looked upon as ſo many <hi>Gods</hi> in it: Since there would be no living in this World without them, but it would ſoon turn into a meer Wilderneſs, and Man him<g ref="char:EOLhyphen"/>ſelf run Wild and Savage in it: And
+<hi>all the Foun<g ref="char:EOLhyphen"/>dations of the Earth be quickly out of courſe;</hi> as our Authour expreſſes it, when he charges thoſe <hi>Migh<g ref="char:EOLhyphen"/>ty</hi> with their Male-Adminiſtration, <hi>ver.</hi> 5. But now in the midſt of our Diſorders the Preſence of an Upright Magiſtrate is as the Appearance of a God, his Awful Brow ſtrikes the Guilty dumb, his Well-known Juſtice raiſes up the Head of Op<g ref="char:EOLhyphen"/>preſſed Innocence, and his Solemn Sentence, like the Almighty <hi>Fiat,</hi> turns Confuſion into Peace and Harmony.</p>
+                  <p>Thus whilſt they become the Publick Ben fa<g ref="char:EOLhyphen"/>ctors of Mankind, the Noble Pillars upon which all Humane Societies do reſt, the Glorious, as well as Uſeful Preſervers of Peace and Juſtice in the World, they are indeed the faireſt Images of God in it.</p>
+                  <p>And ſo they may be called,</p>
+                  <p n="4">
+                     <label type="milestone">
+                        <seg type="milestoneunit">consideration </seg>4</label> 4. By reaſon of the Eminent Honours due to the Juſt Diſcharge of their High Office.
+<hi>Render,</hi> ſays that Apoſtle, <hi>Honour to whom Honour is due, Rom.</hi> 13.7. And it is of the Civil Magiſtrate, that he is there ſpeaking, for to thoſe he thought the greateſt Honours due, and therefore to thoſe he commands<pb n="13" facs="tcp:59307:11"/>them moſt eſpecially to be rendered: And there is all the Juſtice in the World in it; that they, who are clothed with ſo much of God's own Power, ſhould ſhine alſo with ſome part of his Glory; that they, who do ſo much of God's own Work, ſhould be dignified with ſome ſmall Share of his Honour too.</p>
+                  <p>Thus when Kings communicate part of their So<g ref="char:EOLhyphen"/>vereign Power to their Vice-Roys, they communi<g ref="char:EOLhyphen"/>cate part of their Royal State to them alſo: And therefore much of that outward Pomp and Cere<g ref="char:EOLhyphen"/>mony, which has been thought neceſſary to ſupport the Majeſty of Crowned Heads, hath been pro<g ref="char:EOLhyphen"/>portionably allowed to Judges and Inferiour Magi<g ref="char:EOLhyphen"/>ſtrates: Thence come their Maces, their Sword-Bearers, and their Robes of State; the Bench and Bar ſet forth with ſo much Venerable Solemnity: All to Command a Reverence to the Magiſtrates Perſons, and to render the great work of Juſtice as Glorious as it is uſeful.</p>
+                  <p>And yet all this is but mean Pageantry, if com<g ref="char:EOLhyphen"/>pared to the inward Veneration that every Wiſe and Good Man payes to thoſe Living Images of the Divine Juſtice; to thoſe great Repreſentatives of God governing the World; for with what pro<g ref="char:EOLhyphen"/>found reſpect do we behold ſuch a Perſon, for whom a whole Nation fares the better? And how do our very hearts bow before that Superiour Vertue to whoſe well imployed Authority we owe the quiet of our Poſſeſſions, and the ſecurity of our Lives?<pb n="14" facs="tcp:59307:12"/>And whoſe Names do more Illuſtriouſly fill up the Records of Hiſtory, than thoſe of Juſt and Good Princes; of thoſe <hi>Patres Patria</hi> who have made their Peoples happineſs the Buſineſs and Glory of their Reigns; and than thoſe of Uncorrupt and Upright Judges? Their Perſons are at preſent re<g ref="char:EOLhyphen"/>garded with the higheſt Honour, and when they die their Memories ſhall be Embalmed in the <hi>pre<g ref="char:EOLhyphen"/>cious Oyntment</hi> of that <hi>good Name,</hi> which they ſecu<g ref="char:EOLhyphen"/>red by repeated Acts of Vertue in their Lives: And for all theſe Reaſons the <hi>Scripture</hi> does juſtly dig<g ref="char:EOLhyphen"/>nifie them with this Sacred Title in the <hi>Text.</hi> And thus much for their Dignity.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. We have their Subjection alſo;
+<note place="margin">Deut. 10.17.</note> for though they are called <hi>Mighty,</hi> though they are called <hi>Gods;</hi> yet there is a God above them,
+<note place="margin">Pſal. 94.2.</note> A God that is All<g ref="char:EOLhyphen"/>mighty, that is literally the <hi>God of Gods, and Judge of all the Earth.</hi> And this Subjection of the Civil Magiſtrates is implied in their very Dignity; whoſe greateſt Excellency does conſiſt in a likeneſs of God, and in their reſembling him; they therefore muſt needs be ſubordinate unto that God, to be whoſe Repreſentatives is their greateſt Honour: For if their Chief Power conſiſts in their being Commiſ<g ref="char:EOLhyphen"/>ſioned by God to execute part of his own Authori<g ref="char:EOLhyphen"/>ty upon Earth; if their Chief Accompliſhments are but ſaint and dim reflections of the Divine Wiſ<g ref="char:EOLhyphen"/>dom, Truth, Goodneſs, and Juſtice; if their greateſt uſefulneſs conſiſts in being God's Inſtru<g ref="char:EOLhyphen"/>ments for good to Men, Agents for Divine Juſtice, and Factors for Almighty Providence here below;<pb n="15" facs="tcp:59307:12"/>in Short, if their Chief Glory conſiſts in being God's Mortal Repreſentatives, then all this Dignity be<g ref="char:EOLhyphen"/>ing but a Reſlected Luſtre, but a Relative and De<g ref="char:EOLhyphen"/>pendant thing; and all their Divinity being but an Imperfect Copy of his, <hi>in whom dwells the whole fulneſs of the God-head:</hi> This very Dignity proves that though they are Mighty, they are ſtill Subor<g ref="char:EOLhyphen"/>dinate; that though they are Great Lights, yet like the Moon they only <hi>rule</hi> this preſent <hi>Night,</hi> and borrow all their Brightneſs from that greater Luminary which rules the Everlaſting Day, That is, from God the Giver of <hi>every good and perfect gift.</hi> As therefore all that is Eminent in them flows from a Higher Spring, ſo it ſhews their <hi>Sub<g ref="char:EOLhyphen"/>ordination</hi> to it. And this Subjection is in the <hi>Text</hi> ſet forth, 1. <hi>By Gods ſtanding in the midſt of them:</hi> And 2. <hi>By his Judging among them:</hi> That is by his being both the Witneſs, and Judge of all they doe.</p>
+                  <p n="1">1. <hi>Mighty</hi> as they are, they are ſtill under Gods Immediate Inſpection; he ſtands by, not only to aſſiſt them, which is a Sence the words might very well bear; but to obſerve both all they doe, and how they do it; he not only overlooks all their Proceedings, but he reads their very Thoughts too, and pearceth into the Darkeſt Corners of their Hearts, to ſee whether any Secret Self-Intereſt, Partiality, or By-Reſpects Influence thoſe Acts of theirs which outwardly, perhaps, carry a plauſible Aſpect: Thus God is the Great Superviſor of all their Actions, and of all the Reaſons of thoſe<pb n="16" facs="tcp:59307:13"/>Actions. Whllſt, like ſome Inquiſitive Princes, he ſits behind the Curtain when his Great Officers are Adminiſtring Juſtice; where he ſits no Idle Specta<g ref="char:EOLhyphen"/>tor by, for we read, that he hath often thrown aſide the Curtain, and by extraordinary interpoſing Providences hath Publickly appeared on the behalf of Injured Innocence, and wonderouſly detected the Iniquity either of Proſecutors, Juries, or Judges.</p>
+                  <p n="2">2. <hi>Mighty</hi> as they are, God is ſtill their Judge, and paſſes Sentence upon all they do; which Judg<g ref="char:EOLhyphen"/>ment of his, though at preſent it be only Secret, and confined to the Cabinet Council of his own Im<g ref="char:EOLhyphen"/>mutable Wiſdom and Juſtice: Yet at laſt it ſhall be made moſt Publick; when thoſe <hi>Gods</hi> ſhall come to <hi>dye like</hi> other
+<hi>Men,</hi> and <hi>in the day when God ſhall judge the ſecrets</hi> both of People and of Princes; When <hi>Monarchs</hi> muſt deſcend their Thrones, and Judges come down from the Bench to the Bar, there to take their Tryals in the midſt of Ten Thouſand Spectator Angels, and as many Accuſing Devils, and by the Witneſs of their own Con<g ref="char:EOLhyphen"/>ſciences, every of which is Ten Thouſand ſtrong.
+<note place="margin">Deut. 16.9.</note> When neither Fine Parts, nor Great Learning, nor Court Favour, nor Popular Eſteem, nor <hi>Bribes that blind the eyes of the wiſe,</hi> ſhall ſtand them in any ſtead; but it will then appear, notwithſtanding all former outward Differences, yet that all Souls are <hi>Equal.</hi> Which puts me upon my third and laſt Ob<g ref="char:EOLhyphen"/>ſervation, The Magiſtrates Duty conſequent both to their Dignity, and their Subjection.</p>
+                  <p n="1">
+                     <pb n="17" facs="tcp:59307:13"/>1. Their Duty with reſpect to their High Dig<g ref="char:EOLhyphen"/>nity, If they are in ſome ſence <hi>Gods,</hi> then how ought they to behave themſelves anſwerable to that glorious Title; and to Act like the Divinity whom they repreſent? Every Magiſtrate there<g ref="char:EOLhyphen"/>fore ought to ſtand very much upon his Honour: And to conſider in all he does, whether he be true to his High Quality; whether it be Great, and God-like Juſtice that he is then doing; whether he believes that God himſelf, if he was there viſibly preſent, would act in thoſe Caſes as he does. Thus our <hi>Mighty,</hi> Being inſpired with a Noble Pride, and a Holy Emulation, ſhould ſcorn to do any thing un<g ref="char:EOLhyphen"/>worthy the God whoſe Name they wear, whoſe Perſon they repreſent, and whoſe Work they are about: And as
+<hi>Nehemiah,</hi> when warned to with<g ref="char:EOLhyphen"/>draw himſelf from the ſurprize of his Enemies, an<g ref="char:EOLhyphen"/>ſwered with a generous Zeal.
+<note place="margin">Neh. 6.11.</note> 
+                     <hi>Should ſuch a Man as I flee?</hi> So ſhould every Magiſtrate, as conſcious of his own High Dignity, be ready with a Devout Bravery of Mind to ſay, <hi>Should ſuch a Man as I</hi> do thus or thus? Should I who repreſent the Great God <hi>fear the face of</hi> any <hi>man</hi> though ever ſo great? Should I
+<hi>reſpect Perſons?</hi> Should I take a Bribe? Should I <hi>juſtifie the wicked for favour?</hi> Or <hi>condemn the Righteous</hi> for fear? Would this become the Heavenly Character I bear? Or this be at all like a God? Thus from a due ſence of their Dignity may the Magiſtrates argue themſelves into their Duty.</p>
+                  <p>
+                     <pb n="18" facs="tcp:59307:14"/>And,</p>
+                  <p n="2">2. From a Sence of their Subjection too; ſince as much Gods as they are, yet there is a God, an Infinite Power above them: A God that is now the Infallible Witneſs of all they are doing, and that will hereafter be the Impartial Judge of all they have done.</p>
+                  <p>Thus when they conſider that theirs is but a borrowed Greatneſs, a deputed Authority, a vica<g ref="char:EOLhyphen"/>rious Power, a temporary Regency, and that e're long their large Commiſſions will be out of Date, their Magiſtracy come to its end, their Enſigns of Honour be all lay'd by, their Robes of State be put off for ever, their Titles and Dignities be buried in the Duſt, and their Perſons, diveſted of all their former Grandieur, muſt appear in the Croud of Common Malefactors, that Judges themſelves muſt in their turns be judged, and all our Mortal <hi>Gods</hi> muſt render an Account to him that is alone Im<g ref="char:EOLhyphen"/>mortal; and that the Judgment of God will prove as much more ſtrict and terrible, as his Wiſdom and Juſtice are infinitely more perfect than theirs; the Sence of ſuch a Subjection muſt needs inſtruct them in their Duty, and become a more powerful
+<hi>memento</hi> to them, than that ſevere Prince gave, who ſtead off the Skin from a Corrupt Judge, and ſpread it on that Seat of Juſtice upon which he cau<g ref="char:EOLhyphen"/>ſed his Son to ſucceed him; that ſo by the Horrour of his Fathers Fate he might be terribly warned to avoid his Crime.</p>
+                  <p>
+                     <pb n="19" facs="tcp:59307:14"/>But here though it might be thought preſump<g ref="char:EOLhyphen"/>tion in me to intrude my Counſels upon thoſe who are in ſo many reſpects above me; yet, as the hum<g ref="char:EOLhyphen"/>bleſt of your Attendants, give me leave to follow this dayes Solemnity with theſe honeſt Wiſhes.</p>
+                  <p>That you <hi>Mighty</hi> and <hi>Princes,</hi> that you who like <hi>Gods</hi> determine of other Mens Lives and Fortunes, would conſult both your Dignity and your Duty, and conſider that you are <hi>Gods Miniſters</hi> as well as the Kings; that you act by a Divine Commiſſion, as well as a Civil; and that you are as much ac<g ref="char:EOLhyphen"/>countable to Heaven, as to the State; My Wiſhes therefore are, that you may be as Zealous for Gods Intereſt, as for their Majeſties; and do our Holy Religion as much Service, as you do the Nation; That Atheiſme, Debauchery, and Pro<g ref="char:EOLhyphen"/>phaneneſs, may be as ſeverely animadverted upon by you, as Diſhoneſty, Injuſtice or Oppreſſion: And in ſum that you would, at leaſt, uſe an equal care to ſee the Laws of God executed againſt all Irreligion, Vice, and Immorality, which are the Scandal and Bane of <hi>pure and undefiled Religion,</hi> as to ſee the Laws of the Land executed againſt thoſe other ſins that are deſtructive of Humane Society. That ſo we may be a Nation throughly reformed in our Lives and Manners, as well as in our Faith and Publick Worſhip; and that we may be deli<g ref="char:EOLhyphen"/>vered not only from other Mens Violence, but from our own Reigning Vices the Blacker Slavery of the two.</p>
+                  <p>
+                     <pb n="20" facs="tcp:59307:15"/>And as I wiſh you thus concerned for the Pra<g ref="char:EOLhyphen"/>ctical part of our Religion, ſo for the Political part alſo; that the Eſtabliſhed Church of <hi>England</hi> may be happy in your Incouragement and Protection. Conſider O ye <hi>Mighty</hi> that you are not only Chri<g ref="char:EOLhyphen"/>ſtians at large, but alſo Baptized into the particular Communion of the Church of <hi>England;</hi> ſhew therefore your Affection to that Venerable Mother which ſo early received you into her boſome, and take ſome care, I beſeech you, that the more ſhe indulges the worſe ſhe be not uſed, and that the Charitable Liberty ſhe has yielded to others may not embolden them to appear the more Virulent Enemies againſt her.</p>
+                  <p>
+                     <hi>Laſtly,</hi> Let me beg that our Neighbours of the Countrey Magiſtracy would admit my good Wiſhes alſo. Gentlemen, though yours is not the Higheſt Station, yet perhaps it is that upon which the motion of the greater Wheels does more depend than is uſually conſidered. For Kings and Parlia<g ref="char:EOLhyphen"/>ments may make as good Laws as they can; and Judges may give as Severe Charges as they pleaſe; yet if you are either remiſs or partial in the diſ<g ref="char:EOLhyphen"/>charge of your Truſts, the courſe of Juſtice muſt needs be extreamly obſtructed: You are placed like the <hi>Dii Minores,</hi> like <hi>Leſſer Gods</hi> in your Coun<g ref="char:EOLhyphen"/>trey, by your Diligence, Juſtice, and good Ex<g ref="char:EOLhyphen"/>amples to carry on the orderly Work of Provi<g ref="char:EOLhyphen"/>dence here below: But if you cool in your Offices,<pb n="21" facs="tcp:59307:15"/>and for any private Reſpects of your own ſuffer our Laws to lye unexecuted; You fail in the Duty you owe to your God and your King; to your Countrey and your Character; to your Honours and your Conſciences; and the guilt of diſappoin<g ref="char:EOLhyphen"/>ted Juſtice muſt needs lie heavy upon your heads. And you will be ſo far from hearing any part of that God-like reſemblance in the Text, that you will rather prove meer Wooden Images of the Di<g ref="char:EOLhyphen"/>vine Juſtice, and all the reſpect that is paid you will be but ſo much State-Idolatry. Rouſe up therefore the Old <hi>Engliſh</hi> Publick Spirit! And be warmed with a Generous Ambition of making good the High Character in the <hi>Text.</hi> And as you <hi>ſtand</hi> like ſo many
+<hi>Gods</hi> above other Men, ſo be uſeful as <hi>Gods,</hi> Active, Upright, and Impartial as <hi>Gods</hi> in your ſeveral Stations.</p>
+                  <p>And as Our King when he roſe up like <hi>Moſes,</hi> to be the Deliverer of God's Church and People from an <hi>Aegyptian Bondage;</hi>
+                     <note place="margin">Exod. 7.1.</note> like <hi>Moſes</hi> he became <hi>as a God</hi> both to our <hi>Pharoahs</hi> and to our
+<hi>Aarons;</hi>
+                     <note place="margin">Exod. 4.16.</note> that is, the Scourge of Heaven upon our Perſecu<g ref="char:EOLhyphen"/>tors, and the Relief of Heaven to our Holy Ones; and as he like <hi>Moſes</hi> ſtill heads the Body of Di<g ref="char:EOLhyphen"/>ſtreſſed Chriſtendom, Travelling through a Wil<g ref="char:EOLhyphen"/>derneſs to a Land of Peace: Whilſt he as the Soul of that vaſt Body, Animates and gives it both Life and Motion; Life by that High Courage that hath ſo much of the <hi>Hero</hi> in it, and Motion by<pb n="22" facs="tcp:59307:16"/>that deep Wiſdom that hath ſo much of the God in it. May you all be provoked by ſo great, ſo glorious an Example! And become as Active and as Zealous to advance Religion; True Chriſtian Vertue, and Peace at Home, as he is to procure and extend them abroad: May you all be con<g ref="char:EOLhyphen"/>cerned to Conquer and Exterminate Vice, Pro<g ref="char:EOLhyphen"/>phaneneſs, and Debauchery in your Countrey, Tyrants more dangerous and more deſtructive to its Succeſs and Happineſs than either <hi>France</hi> or <hi>Rome</hi> can ever prove without their fatal Aſſiſtance. That as our Monarchs may in the Language of the <hi>Text</hi> be called <hi>Gods</hi> to you. Ye may be alſo
+<hi>Gods</hi> to <hi>us,</hi> the Nations good <hi>Genii,</hi> each of you one of Gods lower Vice-Royes in your reſpective Poſts.</p>
+                  <p>That ſo the State may be faithfully ſerved, Their Majeſties Loyally Obeyed, Our <hi>Engliſh</hi> Laws impartially Executed, Our Holy <hi>Engliſh</hi> Church Defended and Encouraged, that God may be
+<hi>glorified in you, and you in him;</hi> that you your ſelves may ſhare in that Honour which you procure for him; and that he may graciouſly re<g ref="char:EOLhyphen"/>flect part of the Glory back upon your own heads which he ſhall receive upon your Account.</p>
+                  <p>Do thus, and as the great Reformer <hi>Jehoſophat</hi> ſaid to his Miniſters of State, <hi>Deal Couragiouſly,<pb n="23" facs="tcp:59307:16"/>and the Lord be with the Good.</hi> And now <hi>Grant O Lord we beſeech thee that the courſe of this World may be ſo peaceably Ordered by thy Governance, that thy Church may joyfully ſerve thee in all Godly quietneſs, through Jeſus Chriſt our Lord; To whom,</hi> &amp;c.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:59307:17"/>
+                  <pb facs="tcp:59307:17" rendition="simple:additions"/>
+                  <p>A SERMON Preached at <hi>NORTHAMPTON</hi> AT A VISITATION
+<hi>October</hi> the 10th. 1694.</p>
+                  <p>By <hi>JOHN MANSELL,</hi> Rector of <hi>Furthoe</hi> in the County of <hi>Northampton.</hi>
+                  </p>
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>J. Richardſon,</hi> for
+<hi>Brabazon Aylmer,</hi> at the <hi>Three Pigeons</hi> in <hi>Cornhil,</hi> over againſt the <hi>Royal Exchange</hi> in <hi>Cornhil,</hi> MDCXCV.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:59307:18" rendition="simple:additions"/>
+                  <pb facs="tcp:59307:18"/>
+                  <head>To The Reverend <hi>THOMAS WOOLSY,</hi> D.D. ARCH-DEACON OF
+<hi>NORTHAMPTON.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>GIVE me leave to repeat the firſt Anſwer I re<g ref="char:EOLhyphen"/>turned to that Obliging Complement, where<g ref="char:EOLhyphen"/>with you ſoftned the Command laid upon me to make this Sermon Publick; which was, that hither<g ref="char:EOLhyphen"/>to it was mine, and I alone was accountable for all its Imperfections; but if it came forth under the Autho<g ref="char:EOLhyphen"/>rity of your Name, it would become yours, and you would be ingaged in its Protection.</p>
+                  <p>Be pleaſed therefore Sir to receive what is yours into your Patronage: And I hope the World will do me the Juſtice to allow, that howſoever I may have failed in any other part of my performance, yet I have given a very bold proof of my Obedience.</p>
+                  <p>But Sir, That diſcreetly managed Zeal which you expreſs for true Practical Piety, together with that great Temper<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and exceeding Sweetneſs of Nature which appears in the ſevereſt Exerciſe of your Authority, as<pb facs="tcp:59307:19"/>they have in general procured you the Affections of your whole Clergy; ſo they have particularly ingaged me to pay this Teſtimony of my reſpect to your Place, and Perſonal Merit.</p>
+                  <p>And if this poor Diſcourſe prove but as ſucceſsful in contributing to the advancement of Religion in the World, as it hath been in the kind acceptance of my Reverend Brethren of the Clergy: I have all that could be wiſhed, and more than could reaſonably have been hoped for, by</p>
+                  <closer>
+                     <salute>Reverend Sir,</salute>
+                     <signed>Your moſt Obedient, Humble Servant, <hi>JOHN MANSELL.</hi>
+                     </signed> 
+                     <dateline>Old Stratford,
+<date>Octob. 22. 1694.</date>
+                     </dateline>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="sermon">
+                  <pb n="5" facs="tcp:59307:19"/>
+                  <head>A SERMON Preached at the VISITATION <hi>IN NORTHAMPTON.</hi>
+                  </head>
+                  <epigraph>
+                     <q>
+                        <bibl>1 TIMOTHY iv. 16.</bibl>
+                        <p>For in doing this thou ſhalt both ſave thy ſelf, and thoſe that hear thee.</p>
+                     </q>
+                  </epigraph>
+                  <p>THE <hi>ſaving</hi> of Mens Souls out of that Univerſal
+<hi>Chaos</hi> of fallen Nature, where<g ref="char:EOLhyphen"/>in all was without Form, and void, and full of Darkneſs: Was a work that had as much of the God in it, as the firſt Creation of Humane Bodies out of the Duſt of the Earth. And though this great work was firſt ſet on foot in Hea<g ref="char:EOLhyphen"/>ven, and God himſelf firſt put his own Almighty<pb n="6" facs="tcp:59307:20"/>hand unto it, yet by an Act of the moſt conde<g ref="char:EOLhyphen"/>ſcending Goodneſs Man was in time admitted into an Infer our Partnerſhip of the Mighty Underta<g ref="char:EOLhyphen"/>king:
+<note place="margin">
+                        <hi>Servat Deus nos ſed non ſine nobis.</hi> Ar.</note> And that not only, whilſt every Man, as aſſiſted by Enabling Grace, is to <hi>work out his own Salvation;</hi> and ſo that which was firſt the Free Gift of God, becomes the Work of Man too; But alſo, as there was a certain Order of Men in<g ref="char:EOLhyphen"/>ſtituted to carry on this Gracious Deſign, who were ſet aſide, by Divine Deſignation, to take care of their own and other Mens Souls; and who by doing ſo ſhould <hi>both ſave themſelves, and thoſe that hear them.</hi>
+                  </p>
+                  <p>In this Epiſtle St. <hi>Paul</hi> Preaches particularly
+<hi>ad Cleran:</hi> So that the whole may be looked upon as one ſhort, but very full <hi>Viſitation Sermon.</hi>
+                  </p>
+                  <p>In the words immediately before the <hi>Text,</hi> He preſents the Clergy with a brief Summary of their Duty, under thoſe two heads, their Doctrine and their Manners: <hi>Take heed to thy ſelf;</hi> that is, to thy own Life and Converſation; and <hi>take heed to thy Doctrine;</hi> that is, both how and what thou tea<g ref="char:EOLhyphen"/>cheſt, that the ſound and uſeful Truths of the one may receive an experimental proof from the bright Example of the other; That their moſt Powerful Sermons being only Inſtructive Comments upon their own Holy Lives; They themſelves living as they ſpeak, as well as ſpeaking as they would have others live; by that two-fold Rhetorick of their Living Doctrine, and their Speaking Lives, they may advance the Glorious Work of Mans Sal<g ref="char:EOLhyphen"/>vation.</p>
+                  <p>
+                     <pb n="7" facs="tcp:59307:20"/>But this Subject of Inſtructing the Clergy in their Duty, hath not been more often handled up<g ref="char:EOLhyphen"/>on ſuch occaſions as <hi>this;</hi> then I believe it needleſs to be urged in ſuch an Audience as <hi>this:</hi> wherein, it becomes me to ſuppoſe the Reverend Hearers much better able to inform the Speaker, than the Speaker them. Setting aſide therefore thoſe words, <hi>doing this,</hi> which immediately reſpect their Duty, from the remaining part of the Text I ſhall ob<g ref="char:EOLhyphen"/>ſerve briefly.</p>
+                  <list>
+                     <item>1. God's admirable Deſign in inſtituting the Prieſtly Order, it was to imploy it about the Sal<g ref="char:EOLhyphen"/>vation of Souls.</item>
+                     <item>2. The extraordinary Honour of thoſe whom God imploys in ſo great a Work.</item>
+                     <item>3. The Incomparable Reward propoſed to thoſe who acquit themſelves well in that great Im<g ref="char:EOLhyphen"/>ployment.</item>
+                     <item>4. The Harmonious Order and Connexion be<g ref="char:EOLhyphen"/>tween the Work, the Honour, and the Reward.</item>
+                  </list>
+                  <p>And all theſe parts ſeem to be ſummed up in in that ſingle word <hi>ſave: God deſigned</hi> to imploy them about the
+<hi>ſaving</hi> of Souls: It is their <hi>Honour</hi> to be imployed about the <hi>ſaving</hi> of others; and it will be their <hi>Reward</hi> to be
+<hi>ſaved</hi> themſelves; and the Method to be obſerved in both, is firſt to <hi>take heed</hi> to the <hi>ſaving themſelves,</hi> that ſo they may the more effectually <hi>ſave thoſe that hear them.</hi>
+                  </p>
+                  <p n="1">
+                     <pb n="8" facs="tcp:59307:21"/>1. Then we have God's deſign in inſtituting the Prieſtly Order, the Miniſterial Function, it was to imploy it about the Salvation of Souls: And he was pleaſed betimes to diſcover this Gracious De<g ref="char:EOLhyphen"/>ſign of his to the World: For if we look back to the Original Inſtitution of the Prieſthood, we ſhall find that
+<hi>Adam</hi> the firſt of Men was the firſt of Prieſts alſo. And though it may paſs in the Num<g ref="char:EOLhyphen"/>ber of Problems, whether there was to have been any certain Order of Prieſts in <hi>Paradiſe,</hi> ſince there would not have been any occaſion for ſome particu<g ref="char:EOLhyphen"/>lar Perſons being imployed between God and other Men: But as it will be in Heaven hereafter, ſo probably it would have been in that lower Heaven upon Earth, all would have been Kings, and all would have been Prieſts: Neither the Regal nor the Sacerdotal Power, as it is likely, would have found any place in that Equality which was neceſ<g ref="char:EOLhyphen"/>ſary to make even <hi>Eden</hi> it ſelf <hi>equally</hi> a Paradiſe to all Men.</p>
+                  <p>But waving this Speculation, it is certain that Man no ſooner fell than the Prieſthood roſe; God in his very firſt Diſcourſe with guilty <hi>Adam,</hi> not only, as it is plain, revealed the Eternal Prieſthood of his Holy Son Jeſus; but, as it is more than pro<g ref="char:EOLhyphen"/>bable, inſtituted the Prieſtly Office amongſt Men too. And though we can trace no foot-ſteps of any one Mans Offering Sacrifice for another in the
+<hi>Antidiluvian</hi> World, the Two Eldeſt Sons of <hi>Adam,</hi> each offering his own Sacrifice; as if in Conformi<g ref="char:EOLhyphen"/>ty to the Paradiſical State every Man was ſtill to be his own Prieſt; and the firſt Notices we meet
+<pb n="9" facs="tcp:59307:21"/>with of a contrary cuſtom was at <hi>Noah</hi>'s coming out of the Ark, where indeed he Sacrificed as a Publick Perſon; yet from thenceforth we find the Prieſtly as well as Kingly Office, continued down in the Fathers of Families, <hi>Omnes Primogeniti ex ſtirpe</hi> Noah.
+<note place="margin">
+                        <hi>St.</hi> Hierome.</note> All the firſt Born of the Line of <hi>Noah</hi> were Prieſts, as that Father obſerves. Until God was afterwards pleaſed to Eſtabliſh the Prieſthood in the
+<hi>Tribe of Levy:</hi> Which Family he accepted of, by way of Commutation, inſtead of the firſt Born of all the other Tribes.
+<note place="margin">Numb. 3.12.</note> And at laſt in com<g ref="char:EOLhyphen"/>pliance to the groſs Conceptions of the <hi>Jewiſh</hi> Na<g ref="char:EOLhyphen"/>tion, he after the manner of Earthly Princes, fixed the Seat of his viſible Empire in his Temple at <hi>Jeruſalem;</hi> and there ſet forth his Revealed Reli<g ref="char:EOLhyphen"/>gion with all the Pomp becoming ſo great a Ma<g ref="char:EOLhyphen"/>jeſty: Making that Houſe his own Royal Reſi<g ref="char:EOLhyphen"/>dence, and the Prieſts of the <hi>Aaronic</hi> Order his Principal Miniſters of State, Adorning them with their particular
+<hi>Inſignia</hi> of Honour, and the Viſible <hi>Regalia</hi> of their Sovereign Maſter: Gold, Purple, and Embroideries, Jewels, Pretious Ointments, and <hi>Arabian</hi> Gums, Solemn Inſtruments of Mu<g ref="char:EOLhyphen"/>ſick, and whole
+<hi>Hecatombs</hi> of Beaſts for Sacrifice, gloriouſly contributing to the Magnificence of their Publick Services. And thus the Prieſthood ſtood even equal in State to the Crown, and long ſupported it ſelf in all that Grandeur; until God ſaw fit to remove thoſe
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> thoſe Elements at once both Rich and <hi>Beggarly, Gal.</hi> 4.9. together with their Attendant
+<hi>Statutes that were not good, Ezek.</hi> 20.25. that is, had no Eſſential Moral Goodneſs<pb n="10" facs="tcp:59307:22"/>in them: And ſetting up a new Scheme of Religion as full of Plaineſs and Simplicity, as the former was of Awful State and Gaudy Ceremony: He ordained a new Order of Prieſts alſo; who, what they wanted in Outward Pomp, were to make it up in the Inward Gifts of the Holy Spirit. When the Church it ſelf, though it had no longer its Gar<g ref="char:EOLhyphen"/>ments of <hi>wrought Gold,</hi> yet became the more <hi>Glo<g ref="char:EOLhyphen"/>rious within:</hi> And the Miniſters of Jeſus Chriſt in<g ref="char:EOLhyphen"/>ſtead of vieing with Earthly Princes in their Glory and Magnificence, more nearly reſembled their Bleſſed Jeſus in his Exemplary Humility. When <hi>Shadows</hi> ſhining and yet dark gave place to <hi>Subſtan<g ref="char:EOLhyphen"/>ces</hi> more beautiful in their Naked Simplicity; and Types and Figures, though ſet off with all that was Gay and Glittering, made room for the things themſelves ſignified; and the Miniſters of the Goſ<g ref="char:EOLhyphen"/>pel Covenant were more Divinely conſecrated by that
+<hi>
+                        <g ref="char:V">Ʋ</g>nction from the Holy one</hi> ſpoken of, 1 <hi>John</hi> 2.20. than the High Prieſt of old, upon whom and whom alone <hi>the anointing oil of the Lord was poured out, Lev.</hi> 8.10. Thus they became a <hi>Kingdom of Prieſts,</hi> as the moſt Antient <hi>Hebrew</hi> reads it, <hi>Exod.</hi>
+19 6. or <hi>Kings and Prieſts</hi> as St. <hi>John</hi> ſpeaks
+<hi>Rev.</hi> 1.6. referring to the <hi>Targum</hi> on the forecited place; or
+<hi>a Royal Prieſthood</hi> as St. <hi>Peter</hi> conforms his words to the
+<hi>Septuagint</hi> Verſion of the ſame, 1 <hi>Pet.</hi> 2.9. Though to do ſtrict Juſtice to thoſe Texts, it muſt be confeſſed, that they regard the whole Body of faithful Chriſtians; but yet they may in a more particular manner be applied to Chriſtian Mini<g ref="char:EOLhyphen"/>ſters, without putting much force upon the words.<pb n="11" facs="tcp:59307:22"/>In fine, God being now to be worſhipped in Spirit and in Truth, thoſe who attended his Publick Wor<g ref="char:EOLhyphen"/>ſhip were to be Men of <hi>Spiritual <g ref="char:V">Ʋ</g>nderſtandings, Col.</hi> 1.9. and to pay to God no longer a Typical Ceremonial, but a <hi>Reaſonable,</hi> that is a Rational <hi>Service.</hi>
+                  </p>
+                  <p>And thus we have traced the Inſtitution and the Eſtabliſhment of the Prieſthood: It is almoſt as old as the World, as Univerſal as Mankind, It has been the Honour of Princes, the moſt Antient of whom, by uniting the Sacerdotal and the Regal Power in their own Perſons, became truely <hi>Patri<g ref="char:EOLhyphen"/>archs;</hi> and in the moſt flouriſhing Empire upon Earth, the Title of <hi>Pontifex Maximus</hi> was thought an Additional Honour to that of Emperour. To conclude this head, and to ſpeak it greatly, it was an Office not Unworthy of Jeſus our Incarnate God; who to thoſe other Offices of King and Pro<g ref="char:EOLhyphen"/>phet was pleaſed to annex this of Prieſt too: <hi>A Prieſt for ever after the honour of Melchiſedec, Heb.</hi> 7.21. And all this leads me directly to my</p>
+                  <p n="2">2. Conſideration, Namely, The extraordinary Honour of that Order which God imploys in ſo great a work as this of
+<hi>Salvation;</hi> when God from the beginning deſigned the Salvation of Souls, he reſolved to Imploy the Prieſthood in that Gracious Deſign, and thereby he highly honoured thoſe whom he ſo imployed: And this Honour doth par<g ref="char:EOLhyphen"/>ticularly appear. 1. In the Subject Matter about which they are imployed: And 2. In the Glorious End to which all their Work was deſigned.</p>
+                  <p n="1">
+                     <pb n="12" facs="tcp:59307:23"/>1. The great Honour of the Prieſtly Order ap<g ref="char:EOLhyphen"/>pears in the Subject Matter about which they are Imployed: And that is Humane Souls, which cer<g ref="char:EOLhyphen"/>tainly next to God himſelf, are the moſt Noble Sub<g ref="char:EOLhyphen"/>jects Men can be Imployed about: Thus the Mi<g ref="char:EOLhyphen"/>niſtry is ſaid to <hi>watch for Souls, Heb.</hi> 12.17. Hu<g ref="char:EOLhyphen"/>mane Souls the breath of God himſelf, his own Im<g ref="char:EOLhyphen"/>mortal Images, the Seat of the Rational Life, the Scene of Thought and Reflection. It being highly Unphiloſophical to ſuppoſe, that Life and Thought could ariſe from meer Matter, though ever ſo juſt<g ref="char:EOLhyphen"/>ly modified, or ever ſo evenly put in motion:
+<note place="margin">Prov. 20.27.</note> 
+                     <hi>This Candle of the Lord</hi> lighted up in Man is the Exalted Subject about which the Prieſthood is imployed. A Subject nobler than what exerciſeth the Heads and hands of all the Buſie, Guilty Great Ones of the World; Greater than any that amuſes the Cabals of Politicians, or the Cabinets of Princes; greater than all that ingages the Ambition of Fighting Monarchs, or of Rival Kings; whoſe moſt weigh<g ref="char:EOLhyphen"/>ty Concerns are meer guilded Nothings, if com<g ref="char:EOLhyphen"/>pared to the worth of one ſingle Soul; which we find to be ſet above the acquiſition of the whole World, <hi>Matth.</hi> 16.26. and which does indeed in<g ref="char:EOLhyphen"/>finitely excell all that the World looks upon with reſpect or wonder. For to take one of the Higheſt Inſtances, what are Victorious Generals, or Con<g ref="char:EOLhyphen"/>quering Armies; though ſet out in all their Martial Bravery, and all the Glorious Terrours of ſucceſs<g ref="char:EOLhyphen"/>ful War? If compared to a Holy Man of God, to a Guide of Souls, kneeling and praying in the midſt of a Devout Congregation, whom he ſeems
+<pb n="13" facs="tcp:59307:23"/>to have inſpired with part of his own Devotion, whilſt performing thoſe Holy Offices that belong to his Sacred Function he
+<hi>wreſtles mightily with God,</hi> and offers a Holy <hi>Violence</hi> to Heaven it ſelf, which ſuffers it ſelf <hi>to be taken by</hi> that Zealous <hi>force.</hi> This doubtleſs is a Spectacle incomparably more pleaſing and agreeable in the Eyes of God, of Angels, and of good Men, than all the Criminal Triumphs of Hu<g ref="char:EOLhyphen"/>mane Conquerors, though raiſed upon the Ruine and Devaſtation of Flouriſhing Provinces, the Aſhes and Rubbiſh of ſmoaking Cities, and the Carcaſes of Thouſands of Men, all Sacrificed to that Devou<g ref="char:EOLhyphen"/>ring <hi>Moloch,</hi> the Wild Ambition of one Reſtleſs Di<g ref="char:EOLhyphen"/>ſturber of the Worlds Peace and his own.</p>
+                  <p>Whereas theſe <hi>Soldiers of Jeſus Chriſt,</hi> for ſo his Miniſters are called, 2 <hi>Tim.</hi> 2, 3. theſe <hi>Leaders of Gods People: Iſa.</hi> 9.16. theſe <hi>Watchmen</hi> over his Houſe,
+<hi>Ezek.</hi> 33.7. Carry on the Mighty Work of Souls at no other Expence but that of Sin; at the Ruine of no other ſtrong holds but thoſe of Satan; and in ſhort, with the hazard of no other Blood but their own in times of Perſecution.</p>
+                  <p>Neither is the Work of Souls only thus compa<g ref="char:EOLhyphen"/>ratively great, with reſpect to all beſides that is ac<g ref="char:EOLhyphen"/>counted great upon Earth, But it will appear ſtill more great, if we conſider the Almighty Maſter-Workman under whom the Miniſtry is ingaged in it: For it is Gods own Work, and therefore they are called <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,
+<hi>Fellow-Labourers with God,</hi> 1 <hi>Cor.</hi> 3.9. and in ſum it was the Work of Jeſus Chriſt himſelf, when humbled into Man; who therefore owns them to be his Fellow-Work-Men, all inga<g ref="char:EOLhyphen"/>ged<pb n="14" facs="tcp:59307:24"/>to carry on that great Deſign that he himſelf firſt began; and <hi>Able Builders</hi> in that Fabrick of which he himſelf laid, as well as was, the
+<hi>Chief corner ſtone:</hi> Thus the Work of Souls being the Work of Heaven, the Work of God, the Work of Chriſt; to be admitted into ever ſo Inferiour a Coadjutorſhip of ſo Divine a Work, muſt needs be one of the higheſt Honours of which a meer Creature can be capable. But 2. This Honour of thoſe whom God imploys in ſo gracious a Deſign will appear more conſpicuous, when we conſider that great End to which all that Work of theirs is directed; and that is to <hi>ſave</hi> thoſe Souls about whom they are imployed: And this gloriouſly dif<g ref="char:EOLhyphen"/>ferences their Work from all others though about the ſame Subject: For though the Philoſopher bu<g ref="char:EOLhyphen"/>ſies his Speculations about this greateſt of Created Subjects; yet it is only to inquire into its Nature and Operations, but not to advance it to the higheſt poſſible degree of Perfection and Happyneſs; Nay the Devil himſelf is buſie about Souls too, but it is only how he may deſtroy them So that it is the Honour of the Miniſterial Function alone to be im<g ref="char:EOLhyphen"/>loyed in the <hi>ſaving</hi> of Souls: And therefore St. <hi>Paul</hi> ſpeaks of his <hi>ſaving his Countreymen, Rom.</hi> 11.14. and of his <hi>becoming all things to all men that ſo he might by all means ſave ſome,</hi> 1 <hi>Cor.</hi> 9.22.
+<note place="margin">
+                        <hi>La<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>n Mi<g ref="char:EOLhyphen"/>niſte<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>em cauſam.</hi> Vorſt.</note> Briefly theſe are the Inſtrumental, the Miniſterial, Saviours Propheſied of <hi>Obad.</hi> 21.
+<hi>verſe.</hi> Saviours therefore they may modeſtly be called, though of a much Inferiour Rank; Proper Inſtruments in our only Proper Saviours hands.</p>
+                  <p>
+                     <pb n="15" facs="tcp:59307:24"/>And ſo great hath this Honour of ſaving, though but of Bodies, been accounted; that the Emperor deſerved the Sirname of <hi>Pius,</hi> who ſaid <hi>he had ra<g ref="char:EOLhyphen"/>ther ſave one Citizen then deſtroy an hundred Enemies:</hi> And the Generous <hi>Romans</hi> uſed to decree particular Coronets to ſuch as had ſaved a Citizen. And in<g ref="char:EOLhyphen"/>deed of all whoſe Names are Inrolled in the Re<g ref="char:EOLhyphen"/>cords of Fame, we find two ſorts of Men eſpecially Celebrated: One who by Conquering Nations gave beginnings unto Mighty Kingdoms, exten<g ref="char:EOLhyphen"/>ding their Dominions as wide as their Ambition: And the other who by the wonders of their Vertue Succoured the Diſtreſſed, Protected oppreſſed In<g ref="char:EOLhyphen"/>nocence, Depoſed Tyrants, and Exterminated Monſters; The buſineſs of the one was Deſtroy<g ref="char:EOLhyphen"/>ing others to make themſelves great, the buſineſs of the other was to Expoſe themſelves for the Be<g ref="char:EOLhyphen"/>neſit of others. And whereas the firſt had the ho<g ref="char:EOLhyphen"/>nour to be ſtyled Monarchs and the Founders of Empires, the latter were Intitled
+<hi>Hero's,</hi> and Canonized among their <hi>Demy-Gods:</hi> So well did wiſe Antiquity diſtinguiſh between the Deſtroying and the Saving Work.</p>
+                  <p>But yet what is all the Honour of ſuch as Save only Bodies, and Succour Diſtreſſed States? If compared to thoſe Champions of Religion; theſe Hero's of our Holy Faith, who themſelves make it their great buſineſs, as God hath made it their Indiſpenſable Duty, to labour for the <hi>Saving</hi> of <hi>Souls.</hi> Which <hi>Saving</hi> of
+<hi>Souls</hi> is ſet forth, in Holy Scrip<g ref="char:EOLhyphen"/>ture by very Lofty Expreſſions. <hi>He that conver<g ref="char:EOLhyphen"/>teth<pb n="16" facs="tcp:59307:25"/>a Sinner from the Errour of his ways, ſhall ſave a Soul from Death, and ſhall hide a multitude of Sins, James</hi> 5.20. <hi>He that winneth Souls is wiſe, Prov.</hi> 11.30. <hi>Thoſe that turn many to Righteouſneſs ſhall ſhine as the Stars for ever and ever. Dan.</hi> 12.3. So Superlatively great will be the Honour of all ſuch as faithfully Labour in the Lords Vineyard, at pre<g ref="char:EOLhyphen"/>ſent they appear like ſo many Subordinate Saviours in this Lower World, and hereafter they ſhall ſhine like ſo many Stars in the Everlaſting Firma<g ref="char:EOLhyphen"/>ment.</p>
+                  <p>My 3. Obſervable was, The Reward which God has propoſed to the faithful diſcharge of this Great Work,</p>
+                  <p>When God deſigned to Imploy the Prieſthood about the Salvation of Souls, he deſigned that it ſhould be as much to their own Advantage, as to other Mens; and therefore he pronounced that by <hi>doing</hi> this, by <hi>taking heed</hi> to their great Work, they ſhould <hi>both ſave themſelves and thoſe that heard them:</hi> Where you ſee the Reward is not only as great as the Work, but of the ſame Nature too.
+<hi>Salvation</hi> is their Work, and <hi>Salvation</hi> ſhall be their Wages: Which Salvation, if it be ſo very conſiderable in the Work, how much more conſiderable is it like to prove in the Enjoyment?</p>
+                  <p>And this Promiſed Reward is two-fold in the <hi>Text.</hi>
+1. <hi>They ſhall ſave themſelves:</hi> 2. <hi>Thoſe that hear them.</hi>
+                  </p>
+                  <p n="1">1. By <hi>doing this they ſhall ſave themſelves.</hi> A ſhort Expreſſion, but full of mighty Sence, Save them<g ref="char:EOLhyphen"/>ſelves!<pb n="17" facs="tcp:59307:25"/>And what could more be added for their Encouragement? For what above Heaven can be propoſed to the moſt Holy Induſtry?</p>
+                  <p>And this Encouragement muſt needs carry a much greater force with theſe, than with other Men; for their Studies and Imployments ought to make them the moſt proper Judges how great a Bleſſing <hi>Salvation</hi> is like to prove: Since this hath been the buſineſs of their Lives, for this they Read, for this they Meditate, for this they Watch and Pray and weary out themſelves, to make ſome, though Imperfect, Diſcoveries of Heaven before hand, to meaſure as much as it is poſſible of that Infinity; to ſound, as far as it is poſſible, into that Abyſs of Glory; to comprehend before-hand as much as it is poſſible of thoſe Joyes,
+<hi>which neither eye hath ſeen, nor ear hath heard, neither hath it yet en<g ref="char:EOLhyphen"/>tred into the heart of man to conceive,</hi> what they ſhall be; only this they are aſſured of, that what<g ref="char:EOLhyphen"/>ſoever they are like to be, they will be theirs in Exceſs: For we may rationally ſuppoſe that the future happineſs of good Paſtors will exceed that of moſt other Men: Not only becauſe they have been nearer to God in their Sacred Imployments, and done him more Valuable Service: But alſo as they are fitted and prepared for the reception of greater Bliſs. For as God hath all along ſuited his Com<g ref="char:EOLhyphen"/>mands to the preſent Capacities of his Creatures; ſo doubtleſly he will at laſt ſuit his Future Beati<g ref="char:EOLhyphen"/>tudes to the Capacities of the Receivers alſo.</p>
+                  <p>
+                     <pb n="18" facs="tcp:59307:26"/>Thoſe therefore who by a long courſe of Hea<g ref="char:EOLhyphen"/>venly Exerciſes, and by a continued Ingagement in Holy Offices, have dilated and extended the Ca<g ref="char:EOLhyphen"/>pacities of their Souls, are likely at laſt to obtain thoſe higher degrees of Glory, that are fully ſuited to their enlarged Faculties; for though it is certain that all the Veſſels of Mercy ſhall be equally filled with Glory, yet I look upon it as certain that all thoſe Veſſels ſhall not be of equal ſize; and it is plain that a more capacious Veſſel when filled will receive more than a leſſer Veſſel though equally full. Faithful Paſtors therefore, as having moſt exerciſed, and conſequently moſt inlarged their Graces, will be capable of greater degrees of hap<g ref="char:EOLhyphen"/>pineſs; ſince they not only abound in all the Gra<g ref="char:EOLhyphen"/>ces of other Chriſtians, but in the additional Gra<g ref="char:EOLhyphen"/>ces peculiar to their own Holy Function: And ſo come with a double capacity to receive thoſe Re<g ref="char:EOLhyphen"/>wards, which God without doubt will then pro<g ref="char:EOLhyphen"/>portion to the Capacities of the Receivers. So that if there be degrees of Glory hereafter, then certainly the higheſt Stalls of Honour ſhall be ſe<g ref="char:EOLhyphen"/>cured to thoſe, who have faithfully <hi>laboured in the Word and Doctrine:</hi> And ſo Salvation will be more to them than to other Men.</p>
+                  <p>When from attending upon the Altars of God, they ſhall be advanced to thoſe Seats that ſurround his Throne; from putting up Prayers and Suppli<g ref="char:EOLhyphen"/>cations, the chief Work of the Miniſtry here, they ſhall be there preferred to the preſent Work of An<g ref="char:EOLhyphen"/>gels,<pb n="19" facs="tcp:59307:26"/>perpetual Praiſes and Hallelujahs; there to enjoy the Eternal Sabboths of their Reſt; to be made Kings and Prieſts for ever in the New <hi>Jeru<g ref="char:EOLhyphen"/>ſalem;</hi> and to wear thoſe Crowns upon their own glorified Heads, which they have ſo zealouſly re<g ref="char:EOLhyphen"/>commended to the purſuit of others. But,</p>
+                  <p n="2">2. As they ſhall thus <hi>ſave themſelves,</hi> ſo they ſhall <hi>ſave thoſe that hear them</hi> too: And that is a mighty addition to their promiſed Reward: For ſuch Souls as theirs which have ſo long glowed with Divine Love, and breathed the moſt
+<hi>fervent</hi> Charity, muſt needs be ſenſible of the fulleſt Satis<g ref="char:EOLhyphen"/>faction to behold others happy as well as them<g ref="char:EOLhyphen"/>ſelves; Nay to behold others happy by their means. And O the generous, the God-like pleaſure! To ſee how many they have brought to Heaven along with them; whilſt they enter thoſe Everlaſting Doors in no ordinary State, but attended by throngs of followers, who ſhall all own their Holy Leaders, and all do honour to the Bleſſed Inſtruments of their great Salvation: Whilſt thoſe happy Guides double their own happineſs by the ſight of their followers; and ſhine the brighter for the addition of their Lights; whilſt they take their particular Share in every one of their followers Joys, and, if you will pardon the boldneſs of one Expreſſion, I would ſay, whilſt they ſeem to
+<hi>tythe</hi> their very happineſs, bp partaking of all thoſe Joyes of which they have been the Inſtrumental Cauſes. Thus<pb n="20" facs="tcp:59307:27"/>doubly happy, both in themſelves and in their Flocks, they will ſeem to enjoy two Heavens in one. But,</p>
+                  <p n="4">4. And Laſtly, The Text preſents us with the Beautiful Order, and Harmonius Connextion be<g ref="char:EOLhyphen"/>tween the Work, the Honour, and the Reward. <hi>Do this</hi> and thereby <hi>ſave your ſelves. Take heed</hi> to your own Salvation, and ſo ye may the more ſuc<g ref="char:EOLhyphen"/>ceſsfully
+<hi>take heed</hi> to the Salvation of others. For it is too ſad a Truth, that he who neglects his own Salvation, is never like to take much care of other Mens: We muſt therefore begin with our ſelves, and like other young Artiſts make our firſt Expe<g ref="char:EOLhyphen"/>riments at home, before we can hope to work ſuc<g ref="char:EOLhyphen"/>ceſsfully for others. And this ſame Order is ob<g ref="char:EOLhyphen"/>ſerved in the former part of the Verſe, wherein the taking heed to our ſelves obtains the firſt place, before taking heed to our Doctrione; and that with all the reaſon in the World, ſince he, who has firſt taken all due Pains with his own Soul, is like to have both the larger Experience, and the tenderer Con<g ref="char:EOLhyphen"/>cern for the Souls of that Flock which God hath intruſted him to feed. Whereas they, who <hi>take</hi> little <hi>heed to themſelves,</hi> will in all probability <hi>take</hi> leſs <hi>to thoſe that heat them:</hi> Such though they may have ever ſo many other Accompliſhments, yet they will want the <hi>one thing neceſſary:</hi> They may perhaps ſtudy hard, and Preach plauſibly, for their Credit; but there will be little of Conſcience in the Caſe: they may hold the moſt ſaving Truths<pb n="21" facs="tcp:59307:27"/>Notionally for the honour of being Orthodox, but Duty will be very little concerned in all they do; ſuch may poſſibly be great Scholars, but by no means good Paſtors; They may Preach Them<g ref="char:EOLhyphen"/>ſelves, but not Jeſus Chriſt; who is beſt Preached by a Holy Life, and indeed is never well Preached without it: So that to theſe the words of the great Schoolman may not unaptly be applyed, though in a Sence differing from his own intention.
+<note place="margin">Aquin.</note> 
+                     <hi>Sic at<g ref="char:EOLhyphen"/>tendunt Doctrinae ut ſui curam negligunt,</hi> they ſo aim at the honour of being Learned Men, that they neglect the greater of being Good Men; and ſo they do but improve their Excellent Parts, they are little concerned for the more Excellent Im<g ref="char:EOLhyphen"/>provement in Chriſtian Vertues. But now the faithful Feeder of Chriſt's Sheep, whoſe Study is all in Order to practice,
+<note place="margin">Venatorius.</note> 
+                     <hi>Qui recte docet nec minus recte vivit, who lives what he Preaches;</hi> he by be<g ref="char:EOLhyphen"/>ginning with his Life will proceed the more happi<g ref="char:EOLhyphen"/>ly with his Doctrine,
+<note place="margin">Calvin.</note> 
+                     <hi>
+                        <g ref="char:V">Ʋ</g>t Doctrinae non repugnat vitae,</hi> and takes care <hi>that his Life do not contradict his Doctrine,</hi> the groſſeſt Solaeciſm of which a Preacher can be guilty. And this Method is obſerved again in <hi>Acts</hi> 20.28. <hi>Take heed to your ſelves, and to the whole Flock: To your ſelves</hi> in the firſt place, and ſo ye will ſucceed the more effectually with <hi>your Flock.</hi> For alaſs it is matter of dayly and deplo<g ref="char:EOLhyphen"/>rable Obſervation, that the People are much apter to learn from one ill Action of their Preachers, than from a hundred good Diſcourſes; and we ſee them<pb n="22" facs="tcp:59307:28"/>more ready to repeat the Failings of his Life, than the Excellencies of his Doctrine; and if the laſt be ever taken notice of, it is uſually but to ſlur the more ſly Reproach upon the former; He is a Rare Man in a Pulpit—but he is thus or thus out of it. This calls all the Sacred Truths we utter into queſtion; for all Mankind have that Natural <hi>Logick</hi> to conclude, that there is no great reaſon to be<g ref="char:EOLhyphen"/>lieve him, who doth not much ſeem to believe himſelf: And indeed who can comfortably hope to be ſaved by him, that is himſelf like to be a <hi>Caſtaway.</hi>
+                  </p>
+                  <p>Not as if the Efficacy of the Word and Sacra<g ref="char:EOLhyphen"/>ments depended abſolutely upon the worthineſs of the Inſtrument; Since it is certain that God both can, and oftentimes doth, ſave many by the Miniſtry of ſuch as are not likely to be ſaved themſelves: And without doubt <hi>Judas,</hi> at the Apoſtles firſt Miſſion, wrought as many Miracles, and made as many Converts as any of the others that were ſent.</p>
+                  <p>But though God doth not alwayes bind himſelf to the moſt proable Means, yet all this is no thanks to the Unwor<g ref="char:EOLhyphen"/>thy Tool;
+<note place="margin">
+                        <hi>Cui enim, cui ſimiles Dixerim Sacerdotes malos, niſi aquae bap<g ref="char:EOLhyphen"/>tiſmatis, quae peccata baptiſatorum diluens, illos ad Regnum Coeleſte mittit, at ipſa poſlea in Cloacas de<g ref="char:EOLhyphen"/>ſcendit?</hi> Greg. Hom. 17. in Evang.</note> though abundantly to his Glory, who can make ſuch Ex<g ref="char:EOLhyphen"/>cellent Uſe of ſo improper Inſtru<g ref="char:EOLhyphen"/>ments: Whereas by all the Rules of Moral probability thoſe are moſt likely <hi>to ſave them that hear them</hi> who have firſt taken all neceſſa<g ref="char:EOLhyphen"/>ry
+<hi>heed to ſave themſelves:</hi> And the whole, both<pb n="23" facs="tcp:59307:28"/>Honour and Reward of the Miniſterial Function depends abſolutely upon this Method.</p>
+                  <p>And now inſtead of taking upon me to conclude with a
+<hi>word of Exhortation;</hi> give me leave to turn it into a Congratulation. And O happy we my Brethren! Whom God hath ſo graciouſlyy admit<g ref="char:EOLhyphen"/>ted into the Meaneſt Share of ſo Divine a Work, a Work attended by ſo great an Honour, and like to be crowned with ſo Glorious a Reward: Happy we! whom God hath ſet apart for his own imme<g ref="char:EOLhyphen"/>diate Service; and to imploy us about the Salvation of others; that we are Commiſſioned to ſpeak to Men on the behalf of God, and to God on the be<g ref="char:EOLhyphen"/>half of Men; that to our care is committed the Conduct of thoſe precious <hi>Souls for whom Chriſt died,</hi> and that the deareſt Concern of Heaven is intruſted to our Management. But more happy we! if convinced of our own Happineſs, and war<g ref="char:EOLhyphen"/>med with a Holy Sence of our Sacred Imploy<g ref="char:EOLhyphen"/>ments, we <hi>take</hi> ſuch <hi>heed to our Lives and Doctrines</hi> as may keep up the Dignity of our Divine Com<g ref="char:EOLhyphen"/>miſſions; and ſo Live and ſo Preach that no Man may have Reaſon to deſpiſe us;
+<note place="margin">Tit. 2.15.</note> but that we by faithfully heeding the Duty laid down in the <hi>Text,</hi> may ſecure to our ſelves both the Honour and the Reward propoſed in it; Still remembring that Hea<g ref="char:EOLhyphen"/>ven is our great Province, that Souls are the No<g ref="char:EOLhyphen"/>ble Subjects which we are to work upon, that Salva<g ref="char:EOLhyphen"/>tion is the Glorious Affair in which we are imploy<g ref="char:EOLhyphen"/>ed,
+<pb n="24" facs="tcp:59307:29"/>Moſt happy we! if we can untie our Affections from all Lower, Meaner Ingagements, and leaving the eager purſuit of thoſe things to ſuch as have not ſo much of Heavenly Buſineſs on their hands; after the Moderate Proviſion for our own Fami<g ref="char:EOLhyphen"/>lies, (you will excuſe this ſhort Digreſſion) after the Moderate Proviſion for our <hi>own Families,</hi> which whoſoever doth <hi>not provide for is worſe than an In<g ref="char:EOLhyphen"/>fidel:</hi> and I am not yet convinced that we are bound to Preach and Beg, or which would come to much the ſame thing, to truſt our neceſſary Maintenance to the Charity of ſuch, as are not like to be over Liberal in Voluntary Contributions, ſince they ſo much repine at our Legal Eſtabliſh<g ref="char:EOLhyphen"/>ments: But eſpecially our Gentlemen of Eſtates ought not in Juſtice to call us Mercenary, unleſs they will vouchſafe to take our Work upon them<g ref="char:EOLhyphen"/>ſelves, and ſo coming well provided with their own Patrimonial Poſſeſſions, they may if they pleaſe do the Work of the Lord <hi>gratis,</hi> and then indeed our Pains and Penſions may both be ſpared: But until then, it is moſt equal that thoſe whoſe Portions have been ſpent to prepare and fit them for this Imployment, ſhould find a Decent Livelyhood in it; that thoſe who <hi>ſerve at the Alters ſhould</hi> be maintained by the Altars; and that <hi>thoſe who Preach the Goſpel ſhould live upon the Goſpel;</hi> theſe <hi>Labourers</hi> being certainly as <hi>Worthy of their Hire</hi> as any others. But this care being thus moderate<g ref="char:EOLhyphen"/>ly taken, and we not minding the
+<hi>Maintenance</hi>
+                     <pb n="25" facs="tcp:59307:29"/>more than the <hi>Altars,</hi> nor the
+<hi>Living</hi> more than the <hi>Goſpel,</hi> nor yet working chiefly for filthy Lucre like meer <hi>Hirelings:</hi> But knowing that the care of our Selves and Families ought to come vaſt<g ref="char:EOLhyphen"/>ly behind the care of our Peoples Souls: Happy we! If we <hi>take</hi> ſuch <hi>heed to our ſelves, and to our Doctrine as to ſave our ſelves,</hi> and thoſe Flocks of ours that ought to be as dear to us as our ſelves.</p>
+                  <p>And Happy You our Brethren of the Layity, for whom God hath made ſo Wiſe, ſo Gracious a Proviſion; and called forth Men ſo compleatly qualified for the Care of your Souls, and to carry on the great Work of your Salvation; God him<g ref="char:EOLhyphen"/>ſelf calls them your <hi>Watchmen,</hi> and his own <hi>Angels,</hi> teaching you thereby to look upon them as ſo ma<g ref="char:EOLhyphen"/>ny of your <hi>Angel-Guardians.</hi> Happy you there<g ref="char:EOLhyphen"/>fore if you behave your ſelves neither Unworthy of Gods Care nor theirs; if you neither diſappoint God's Gracious Deſign, nor their Pious Endea<g ref="char:EOLhyphen"/>vours: if you neither diſreſpect their Sacred Cha<g ref="char:EOLhyphen"/>racter, nor grieve their Righteous Souls by obſti<g ref="char:EOLhyphen"/>nate and perverſe Refuſing their Inſtructions; nor yet put a ſlight at once both upon Gods Com<g ref="char:EOLhyphen"/>mon Providence, and their Holy Labours, by lightly forſaking their Miniſtry meerly becauſe you <hi>fancy</hi> ſome others better. For the Eſtabliſhed Laws of every Chriſtian Land are Gods Com<g ref="char:EOLhyphen"/>mon Providence in that Land; And if you Act<pb n="26" facs="tcp:59307:30"/>contrary to thoſe Laws, by ſeparating your ſelves from our Legal Aſſemblies, without be<g ref="char:EOLhyphen"/>ing fully convinced that you cannot be ſaved in them, (and believe it no other reaſon will paſs either with God, or Wiſe Men; and they would be Bold Accuſers of the Brethren who durſt to charge us thus highly.) If you do thus, you affront Gods Providence by pretending to pro<g ref="char:EOLhyphen"/>vide better for your ſelves, and are indeed grown wanton with too much Bread. But happy ſhould both
+<hi>we</hi> and <hi>you</hi> be, if we would both joyn to carry on that great Work which God deſigned for both our good; and both having that Hea<g ref="char:EOLhyphen"/>ven in our View which he has propoſed for both our Incouragements: <hi>We</hi> Zealouſly Lea<g ref="char:EOLhyphen"/>ding, and <hi>you</hi> diligently following; <hi>we</hi> drawing you on with all the fervency of Words, and the more powerful Motives of Holy Examples; and <hi>you</hi> yielding your ſelves up to the force of that double Conduct, <hi>we</hi> following our Lord Jeſus, and <hi>you</hi> following us, God may be faithfully ſer<g ref="char:EOLhyphen"/>ved by us all, and all of us may be graciouſly accepted of by God; that ſo Heaven may be our Journeys-End, and Salvation our Mutual Enter<g ref="char:EOLhyphen"/>tainment, when <hi>you</hi> ſhall all be Prieſts as well as <hi>we,</hi> and <hi>we</hi> ſhall all be Great and Rich as well as the beſt of <hi>you.</hi>
+                  </p>
+                  <p>And as we have both joyned, like Companions Guides and Friends, to go into the Houſe of the Lord together here below, ſo we may there be<pb n="27" facs="tcp:59307:30"/>for ever United in Love and Charity; in Peace and Glory; in the Beatifick Viſion of our God, and in the Everlaſting Armes of that Jeſus <hi>whom our Souls have loved: Keep we beſeech thee, O Lord, thy Church with thy perpetual Mercy, and becauſe the frailty of Man without thee cannot but fall, Keep us ever by thy help from all things hurtful, and lead us to all things profitable to our</hi> Salva<g ref="char:EOLhyphen"/>tion, <hi>through Jeſus Chriſt our Lord, to whom with thy Self and the Bleſſed Spirit be all Adoration, Honour, and Obedience both now and for ever.</hi> Amen.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="publishers_advertisement">
+                  <pb facs="tcp:59307:31"/>
+                  <head>Books Writ by his Grace <hi>JOHN, Late</hi> Lord Arch-Biſhop of <hi>Canterbury.</hi>
+                  </head>
+                  <list>
+                     <item>FOrty Two Sermons and Diſcourſes upon ſeveral Occa<g ref="char:EOLhyphen"/>ſions, moſt at <hi>Court;</hi> in Four Vol. 8<hi>vo.</hi>
+                     </item>
+                     <item>The Rule of Faith: Or, An Anſwer to the Treatiſe of Mr. <hi>J. Sergeant,</hi> &amp;c. 8<hi>vo.</hi>
+                     </item>
+                     <item>Six Sermons concerning the Divinity and Incarnation of our Bleſſed Saviour; Of the Sacrifice and Satisfaction of Chriſt; and of the Unity of the Divine Nature, and the B. Trinity, <hi>&amp;c.</hi> againſt the <hi>Socinians,</hi> 8<hi>vo.</hi>
+                     </item>
+                     <item>Six Sermons, (newly Printed) one concerning Reſolution and Stedfaſtneſs in Religion; One of Family-Religion; Three of Education of Children; and One of the Ad<g ref="char:EOLhyphen"/>vantages of an Early Piety, 8<hi>vo.</hi> Now Re-Printing in 12<hi>mo.</hi>
+                     </item>
+                     <item>A Perſwaſive to frequent Communion in the Sacrament of the Lords Supper, 8<hi>vo.</hi> alone ſtitcht, price 3 <abbr>d.</abbr> or in 12<hi>mo.</hi> bound, price 6 <abbr>d.</abbr>
+                     </item>
+                     <item>A Diſcourſe againſt Tranſubſtantiation,
+8<hi>vo.</hi> alone, price 3 <abbr>d.</abbr> ſtitcht.</item>
+                     <item>The Exact Effigies of His Grace <hi>John</hi> Late Lord Arch-Biſhop of <hi>Canterbury;</hi> on a Large Sheet of Paper Cu<g ref="char:EOLhyphen"/>riouſly Engraven by <hi>R. White,</hi> Price 12 <abbr>d.</abbr>
+                     </item>
+                  </list>
+                  <p>All Printed for <hi>B. Aylmer</hi> and <hi>W. Rogers.</hi>
+                  </p>
+                  <pb facs="tcp:59307:31"/>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
